@@ -2,7 +2,7 @@
 
 namespace SOLID\SRP;
 
-use SOLID\OPP\Interface\IVehicle;
+use SOLID\OCP\Interface\IVehicle;
 
 class Bus implements IVehicle
 {

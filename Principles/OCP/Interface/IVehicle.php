@@ -1,6 +1,6 @@
 <?php
 
-namespace SOLID\OPP\Interface;
+namespace SOLID\OCP\Interface;
 
 
 interface IVehicle

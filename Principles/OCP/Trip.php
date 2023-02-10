@@ -1,9 +1,9 @@
 <?php
 
-namespace SOLID\OPP;
+namespace SOLID\OCP;
 
-use SOLID\OPP\Interface\IMove;
-use SOLID\OPP\Interface\IVehicle;
+use SOLID\OCP\Interface\IMove;
+use SOLID\OCP\Interface\IVehicle;
 
 class Trip
 {

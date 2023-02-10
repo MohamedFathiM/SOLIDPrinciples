@@ -1,9 +1,9 @@
 <?php
 
-use SOLID\OPP\Algorithms\InSky;
-use SOLID\OPP\Algorithms\OnRoads;
-use SOLID\OPP\Trip;
-use SOLID\OPP\Vehicles\Plane;
+use SOLID\OCP\Algorithms\InSky;
+use SOLID\OCP\Algorithms\OnRoads;
+use SOLID\OCP\Trip;
+use SOLID\OCP\Vehicles\Plane;
 use SOLID\SRP\Bus;
 use SOLID\SRP\Driver;
 use SOLID\SRP\Route;

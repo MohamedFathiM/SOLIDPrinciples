@@ -1,8 +1,8 @@
 <?php
 
-namespace SOLID\OPP\Algorithms;
+namespace SOLID\OCP\Algorithms;
 
-use SOLID\OPP\Interface\IMove;
+use SOLID\OCP\Interface\IMove;
 
 class InSky implements IMove
 {

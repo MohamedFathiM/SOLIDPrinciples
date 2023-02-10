@@ -1,8 +1,8 @@
 <?php
 
-namespace SOLID\OPP\Vehicles;
+namespace SOLID\OCP\Vehicles;
 
-use SOLID\OPP\Interface\IVehicle;
+use SOLID\OCP\Interface\IVehicle;
 
 class Plane implements IVehicle
 {
