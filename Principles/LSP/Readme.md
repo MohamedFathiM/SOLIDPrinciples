@@ -1,6 +1,6 @@
 # Design By Contract
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Design_by_contract.svg">
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Design_by_contract.svg" width=300>
 
 ## Make Restrictions on SubTypes Classes
 
